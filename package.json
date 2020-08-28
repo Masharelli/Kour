@@ -1,0 +1,28 @@
+{
+    "name": "tarn",
+    "version": "1.0.0",
+    "description": "Tarn - React Next IT Startup Templates Collection",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build && next export",
+        "start": "next start"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "@material-ui/core": "^4.11.0",
+        "bootstrap": "^4.5.2",
+        "next": "^9.4.4",
+        "react": "^16.13.1",
+        "react-accessible-accordion": "^3.0.1",
+        "react-bootstrap": "^1.3.0",
+        "react-dom": "^16.13.1",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.3",
+        "react-owl-carousel3": "^2.2.5",
+        "react-wow": "^1.0.0",
+        "recoil": "0.0.10",
+        "sass": "^1.26.9"
+    }
+}
